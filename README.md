@@ -1,4 +1,4 @@
-#!!!VIBE CODED!!!
+# !!!VIBE CODED!!!
 
 # Solar Wallpaper Engine
 
