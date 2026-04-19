@@ -1,3 +1,5 @@
+#!!!VIBE CODED!!!
+
 # Solar Wallpaper Engine
 
 A small Python app that changes your KDE Plasma wallpaper based on the sun position.
